@@ -17,7 +17,7 @@ Dự án REST API Spring Boot cho website cửa hàng trang sức với các tí
 - **Mẫu Builder**: Sử dụng trong các đối tượng phản hồi
 - **Dependency Injection**: Sử dụng IoC container của Spring để giảm sự phụ thuộc
 
-### Thực Hành Tốt Nhất
+### Các Nguyên Tắc Lập trình Được Sử dụng
 - **Nguyên Tắc SOLID**: Tuân thủ các nguyên tắc trách nhiệm đơn lẻ, mở-đóng và đảo ngược phụ thuộc
 - **Thiết Kế API RESTful**: Tuân thủ quy ước REST cho các endpoint API
 - **Bảo Mật**: Xác thực dựa trên JWT và phân quyền theo vai trò
@@ -177,7 +177,7 @@ Dự án sử dụng JUnit 5 và Mockito cho việc kiểm thử đơn vị toà
    - Xử lý các định dạng file
    - Kiểm tra lỗi tải lên
 
-### Quy Ước và Thực Hành Tốt Nhất
+### Quy Ước và Best Practices
 
 1. **Cấu Trúc Test**
    - Tuân theo mẫu Arrange-Act-Assert
