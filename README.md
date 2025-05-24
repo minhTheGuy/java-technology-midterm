@@ -221,12 +221,12 @@ Báo cáo coverage sẽ được tạo trong thư mục `target/site/jacoco/inde
 
 ### Sơ Đồ Quan Hệ Thực Thể (ERD)
 
-Để xem sơ đồ ERD hãy truy cập vào ảnh ERD_Diagram.png
+![ERD Diagram](ERD_Diagram.png)
 
 ### Sơ Đồ Kiến Trúc Hệ Thống
 
-Để xem sơ đồ kiến trúc hệ thống hãy truy cập vào ảnh Architecture_Diagram.png
+![Architecture Diagram](Architecture_Diagram.png)
 
 ### Sơ Đồ Thành Phần
 
-Để xem sơ đồ thành phần hãy truy cập vào Component_Diagram.png
+![Component Diagram](Component_Diagram.png)
